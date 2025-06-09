@@ -8,9 +8,10 @@
 
 "Desired Job Role"에서는 나중에 취직할 때 희망하는 직무 2가지를 소개했습니다.
 
-또한 탬플릿을 활용하지 않고 직접 작성하였습니다.
+또한 테마를 활용하지 않고 직접 작성하였습니다.
 
-(Github 주소: https://github.com/sungh00/sungh00)
+(홈페이지 주소: https://sungh00.github.io/sungh00/)
+(Github 주소 : https://github.com/sungh00/sungh00)
 
 
 ## 2. My Skills
